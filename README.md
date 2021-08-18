@@ -1,16 +1,16 @@
-### Hi there 👋
+# MY NAME IS SAMMY DODS!!
+🎓CompSci Student at McMaster University
+🤔Problem Solver
+👾 Creator
 
-<!--
-**SammyDods/SammyDods** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Looking for 2022 Summer co-op
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Django and Blockchain Technologies
+- 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
+- 💬 Ask me about my coop at Rockport!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Personal Website](https://sammysdods.me)  
+[LinkedIn](https://www.linkedin.com/in/sammy-dods/)  
+[DevPost](https://devpost.com/sammysdods?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  
+[YouTube](https://www.youtube.com/channel/UC1CqjViOyCFJWbhUZsxqq1Q)  
+[Twitter](https://twitter.com/Sammy_Dods)  
