@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning Django and Blockchain Technologies
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
-- 💬 Ask me about my coop at Rockport!
+- 💬 Ask me about my coop experience at Rockport!
 
 [Personal Website](https://sammysdods.me)  
 [LinkedIn](https://www.linkedin.com/in/sammy-dods/)  
