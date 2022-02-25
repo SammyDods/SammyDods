@@ -5,7 +5,7 @@
 
 ### Looking for 2022 Summer co-op
 
-- 🌱 I’m currently learning Django and Blockchain Technologies
+- 🌱 I’m currently working on a restaurant web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
 - 💬 Ask me about my coop experience at Rockport!
 
