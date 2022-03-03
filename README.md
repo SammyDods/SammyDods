@@ -1,7 +1,7 @@
 # MY NAME IS SAMMY DODS!!
 🎓CompSci Student at McMaster University
 🤔Problem Solver
-👾 Creator
+👾Creator
 
 ### Looking for 2022 Summer co-op
 
