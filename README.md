@@ -3,11 +3,11 @@
 🤔Problem Solver
 👾Creator
 
-### Looking for 2022 Summer co-op
+### Looking for 2023 Summer co-op
 
 - 🌱 I’m currently working on a restaurant web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
-- 💬 Ask me about my coop experience at Rockport!
+- 💬 Ask me about my coop experience at TD Bank!
 
 [Personal Website](https://sammysdods.me)  
 [LinkedIn](https://www.linkedin.com/in/sammy-dods/)  
