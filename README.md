@@ -3,7 +3,7 @@
 🤔Problem Solver
 👾Creator
 
-### Looking for 2023 Summer co-op
+### Looking for a summer 2023 SWE internship.
 
 - 🌱 I’m currently working on a restaurant web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
