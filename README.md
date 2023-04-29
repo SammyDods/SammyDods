@@ -3,7 +3,7 @@
 🤔Problem Solver
 👾Creator
 
-### Looking for 2023 SWE internships
+### Looking for 2024 SWE internships
 
 - 🌱 I’m currently working on a restaurant web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
@@ -11,6 +11,7 @@
 ### 📝 Recent Roles
 
 <!-- writing starts -->
+* [Java UI Developer Intern - Procor Limited](https://www.procor.com/) - Summer/Winter 2023 
 * [Quality Engineer Intern - TD Bank](https://www.td.com/) - Summer 2022
 * [Lab Support Technician Intern - Rockport Networks](https://rockportnetworks.com/) - Summer 2021
 
