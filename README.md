@@ -3,7 +3,7 @@
 🤔Problem Solver
 👾Creator
 
-### Looking for 2024 SWE internships
+### Looking for 2024 SWE opportunites
 
 - 🌱 I’m currently working on a restaurant finding web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
