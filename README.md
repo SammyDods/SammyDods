@@ -13,7 +13,7 @@
 <!-- writing starts -->
 * [Java UI Developer Intern - Procor Limited](https://www.procor.com/) - Summer 2023 
 * [Quality Engineer Intern - TD Bank](https://www.td.com/) - Summer 2022
-* [Lab Support Technician Intern - Rockport Networks](https://rockportnetworks.com/) - Summer 2021
+* [Lab Support Technician Intern - Cerio](https://www.cerio.io/) - Summer 2021
 
 <!-- writing ends -->
 
