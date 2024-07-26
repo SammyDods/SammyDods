@@ -5,7 +5,7 @@
 
 ### Looking for SWE opportunites
 
-- 🌱 I’m currently working on a restaurant finding web app
+- 🌱 I’m currently working on a MERN stack web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
 
 ### 📝 Recent Roles
