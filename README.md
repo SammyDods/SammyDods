@@ -11,7 +11,7 @@
 ### 📝 Recent Roles
 
 <!-- writing starts -->
-* [Software Engineer - Engage Spaces]([https://www.procor.com/](https://www.engagespaces.com/) - Current
+* [Software Engineer - Engage Spaces](https://www.engagespaces.com/) - Current
 * [Software Engineer Intern - Procor Limited](https://www.procor.com/) - Summer 2023 
 * [Quality Engineer Intern - TD Bank](https://www.td.com/) - Summer 2022
 * [System Administrator Intern - Cerio](https://www.cerio.io/) - Summer 2021
