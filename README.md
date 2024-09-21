@@ -3,7 +3,7 @@
 🤔Problem Solver
 👾Creator
 
-### Looking for SWE opportunites
+### Always open to SWE opportunites
 
 - 🌱 I’m currently working on a MERN stack web app
 - 👯 I’m looking to collaborate on entrprenurial projects and hackathons or partners to practice whiteboarding!
