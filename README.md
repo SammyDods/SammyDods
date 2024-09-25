@@ -1,5 +1,5 @@
 # MY NAME IS SAMMY DODS!!
-🎓5th year CompSci Student at McMaster University
+🎓5th year Computer Science Student at McMaster University
 🤔Problem Solver
 👾Creator
 
