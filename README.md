@@ -17,7 +17,7 @@
 
 <!-- writing ends -->
 
-🚀 Check out my website at [sammydods.me](https://sammysdods.me).
+🚀 Check out my website at [sammydods.me](https://sammydods.me).
 
 [LinkedIn](https://www.linkedin.com/in/sammy-dods/)  
 [DevPost](https://devpost.com/sammysdods?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)  
