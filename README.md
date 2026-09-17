@@ -1,11 +1,12 @@
 # MY NAME IS SAMMY DODS!!
-🎓5th year Computer Science Student at McMaster University
-🤔Problem Solver
-👾Creator
+  I love
+🤔Solving software architecture
+🎓Learning new technology
+👾Videogames
 
 ### Always open to SWE opportunites
 
-- 🌱👯 I’m currently working on a web app in the Real Estate space
+- 🌱👯 Recently worked on a web app in the Real Estate space
 
 ### 📝 Recent Roles
 
